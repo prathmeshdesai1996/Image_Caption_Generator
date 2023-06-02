@@ -3,6 +3,9 @@
 
 This repository contains a Streamlit app for generating captions for images using transformer models. The app allows users to upload an image or provide an image URL and select the number of captions to generate using different transformer models.
 
+- [Huggingface Webapp](https://huggingface.co/spaces/pd96/image_caption_generator)
+- [Streamlit Webapp](https://prathmeshdesai1996-image-caption-generator-app-okeelm.streamlit.app/)
+
 ## Notebook
 
 The `image_captioning.ipynb` notebook demonstrates the usage of different transformer models from Hugging Face for generating captions for images. It showcases both conditional and unconditional image captioning using the selected models. The notebook uses the following transformer models:
